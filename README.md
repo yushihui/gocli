@@ -34,5 +34,7 @@ Today most of network engineers still rely on the CLI to config/manage/trouble-s
 
 [logo-path]: https://raw.githubusercontent.com/yushihui/gocli/master/img/image_path.png "" 
 
-added by branch dev
-added by branch 7.1
+* added by branch dev
+* added by branch 7.1
+* keep going...
+* add 8.0
